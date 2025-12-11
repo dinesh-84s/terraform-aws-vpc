@@ -8,3 +8,7 @@ environment- mandatory
 users should specify a environment 
 CIDR - optional 
 users should provide cidr block, default is 10.0.0.0/16
+
+
+# output.tf
+vpc_id export vpc id created 
